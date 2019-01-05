@@ -11,5 +11,5 @@ This converter will convert number to word or word to number into US Dollar Curr
 * Only accept number between 1-999999999999999 (Max 15 digit)
 * Only accept letters that represent numbers such as "one","two","three","fifty","six hundred","seven billion one thousand thirteen" ...
 
-![alt text](https://raw.githubusercontent.com/muhammedOzbilici/NumbetToText/blob/master/src/main/resources/images/screenshot.png)
+![alt text](https://raw.githubusercontent.com/muhammedOzbilici/NumberToText/blob/master/src/main/resources/images/screenshot.png)
 
