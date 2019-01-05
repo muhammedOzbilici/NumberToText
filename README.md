@@ -13,3 +13,4 @@ This converter will convert number to word or word to number into US Dollar Curr
 
 ![alt text](https://raw.githubusercontent.com/muhammedOzbilici/NumberToText/blob/master/src/main/resources/images/screenshot.png)
 
+[[https://github.com/muhammedOzbilici/NumbetToText/raw/master/src/main/resources/images/screenshot.png|alt=octocat]]
